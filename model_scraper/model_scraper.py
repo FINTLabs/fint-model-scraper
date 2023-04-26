@@ -1,4 +1,4 @@
-from model import Model
+from model_scraper.model import Model
 from lxml import etree as et
 import urllib.request
 
