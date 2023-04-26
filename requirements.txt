@@ -1,0 +1,2 @@
+setuptools~=65.5.0
+lxml~=4.9.2
